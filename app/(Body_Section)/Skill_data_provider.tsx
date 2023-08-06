@@ -26,7 +26,7 @@ function Skill_data_provider({ data, index, type }: Props) {
           width={data.width}
           height={data.hight}
           src={data.Image}
-          className=""
+          className="m-auto"
         />
       </div>
     </motion.div>
