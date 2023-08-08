@@ -69,15 +69,7 @@ function Project_blog({ Single_data }: Props) {
         {Single_data[0].design_blog}
       </p>
       <Dependencies Single_data={Single_data[0]} />
-      <span className=" my-[20px] font-bold text-slate-200 text-[23px] ">
-        Conclusion
-      </span>
-      <p className="text-gray-300 text-[15px]">
-        As I said at the beginning, this is a great project for begginers and
-        even for those who are not new to React . I bealive this is a grat
-        project to have in a resume or portfolio. I am very happy with the app
-        and I hope you will enjoy it as well.
-      </p>
+   
       <span className=" my-[20px] font-bold text-slate-200 text-[23px] select-none ">
         Links
       </span>

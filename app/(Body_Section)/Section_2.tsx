@@ -49,7 +49,7 @@ function Section_2() {
           id="button-primary"
           className=" animate-slideleftT4 px-[20px] py-[7px] text-white  cursor-pointer hover:scale-105 active:scale-90  transition-all   duration-150 select-none rounded-[5px]"
         >
-          Start learing Now!
+          Learn More
         </a>
       </div>
       <div className=" w-[50%] h-full hidden 1140:flex flex-row items-center  select-none justify-between ">

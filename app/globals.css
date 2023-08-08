@@ -26,6 +26,15 @@ section {
   height: 900px;
 }
 
+::-webkit-scrollbar {
+  background: #040612;
+  width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #401f788e;
+}
+
 #cursive {
   font-family: "Cedarville Cursive", cursive;
 }

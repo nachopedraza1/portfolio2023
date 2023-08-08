@@ -15,37 +15,35 @@ function page() {
         </Link>
       </div>
       <div className=" w-full 1250:w-[900px] h-auto m-auto mt-[25px] pb-[100px] ">
-        <div className=" text-gray-400 text-[14px]">Sat Mar 12 2022</div>
+        <div className=" text-gray-400 text-[14px]">Ago 7 2023</div>
         <div className="w-full h-auto font-bold text-[29px] my-[15px] text-slate-200  animate-slowfade ">
-          Hey ☘️, I&apos;m Htet Myat
+          Hey ☘️, I&apos;m Juan Pedraza
         </div>
         <div className=" text-gray-300    animate-slideright ">
-          When I was Start age 19 I found Programming began when I first learned
-          to code with an html. As I explored the world of technology, I
-          discovered web development and was captivated by the creativity and
-          innovation involved in building online experiences.
+          Programmer with more than 3 years of experience
+          experience, focused on creating fast web applications, fast web applications
+          fast web applications,
+          intuitive and built with the best
+          best market practices.
         </div>
         <div>
           <div className="text-[20px]  my-[15px]  animate-slideright ">
             <span className="monospace">All i learning selfstudy from</span>
-            <span className="text-rose-600"> youtube</span> ,
-            <span className="text-emerald-500"> Google</span> ,
-            <span className=" text-[#F48024]"> Stackoverflow</span>
+            <span className="text-rose-600"> Udemy</span> ,
+            <span className="text-emerald-500"> CoderHouse</span> ,
+            <span className=" text-[#F48024]"> Stackoverflow</span>,
+            <span className="text-rose-600"> Platzi</span>.
           </div>
         </div>
         <div className="text-gray-300  animate-slideright">
-          Fast-forward to today, and I have had the opportunity to work
-          alongside proficient back-end developers and full-stack developers on
-          the construction of real-world applications.
+          I am
+          passionate about the world of technology and
+          I am constantly learning
+          to keep myself updated on the latest trends and
+          latest trends and emerging
+          emerging technologies
         </div>
-        <div className=" text-gray-300  animate-slideright  ">
-          <span className="monospace ">In my free time, I learing</span>
-          <span className="text-sky-500"> Golang</span> ,
-          <span className="text-yellow-500"> Gin </span>
-          <span className="">
-            For My Dream Mutiplayer Game Server and Backend Developments
-          </span>
-        </div>
+
         <div className="w-full h-auto font-bold text-[29px] mb-[15px] mt-[35px] text-slate-200 animate-slowfade  ">
           Development Experience ⏳
         </div>
@@ -61,22 +59,38 @@ function page() {
           Let&apos;s work together to bring your ideas to life!
         </div>
         <div className="font-bold text-[24px] mb-[15px] mt-[35px] text-slate-200  animate-slowfade  ">
-          Website 🌏
+          Skills 🌏
         </div>
         <div className=" text-gray-300  my-[15px]  animate-slideright">
-          I currently have over 1.4 Years experience With html , css , Tailwind
-          css Javascript , Redux , Redux Tookit , ReactQuery , TypeScript , Next
-          js 13 , Payment Stripe , Pusher
+          I currently have over 3 Years experience With
+          , HTML
+          , CSS/SCSS
+          , JavaScript
+          , TypeScript
+          , ReactJs
+          , NextJs
+          , JQuery
+          , Docker
+          , Redux
+          , MaterialUI
+          , Bootstrap
+          , Tailwind
+          , NodeJs
+          , Express
+          , Mongoose
+          , MongoDB
+          , Firebase
+          , Git
+          and more.
         </div>
-        <div className="font-bold text-[24px] mb-[15px] mt-[35px] text-slate-200 animate-slowfade  ">
+        {/* <div className="font-bold text-[24px] mb-[15px] mt-[35px] text-slate-200 animate-slowfade  ">
           Backend 🐳
         </div>
         <div className=" text-gray-300  mt-[15px] mb-[10px]  animate-slideright">
-          Node js , Express js , TypeScript , Mongodb , Postger Sql , FireBase ,
-          FireStore , Graphql , Payment Stripe , Basic Skill with Prisma ORM and
-          Web Scoket , Webhook , Jwt authentication , Docker , Nigx
+          Node js , Express js , TypeScript , Mongodb , FireBase ,
+          Graphql , Jwt authentication , NextAuh , Docker
         </div>
-        <div className="font-bold text-[24px] mb-[15px] mt-[35px] text-slate-200 animate-slowfade ">
+         <div className="font-bold text-[24px] mb-[15px] mt-[35px] text-slate-200 animate-slowfade ">
           Mobile Application 📱
         </div>
         <div className=" text-gray-300  mt-[15px] mb-[10px]  animate-slideright">
@@ -88,7 +102,7 @@ function page() {
         </div>
         <div className=" text-gray-300  mt-[15px] mb-[10px]  animate-slideright">
           Tauri With Next js 13 , TypeScript , Tailwind css , ReduxTookit
-        </div>
+        </div> */}
         <Link
           href={"/Project"}
           className=" flex flex-row items-center text-slate-200 font-normal cursor-pointer text-[14px] my-[30px] "

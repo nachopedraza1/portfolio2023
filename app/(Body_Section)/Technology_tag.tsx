@@ -73,24 +73,24 @@ function Technology_tag({ data }: Props) {
 
       <div
         className={`tag ${
-          data.technology_feature.includes("Type Script") ? "" : " hidden"
+          data.technology_feature.includes("TypeScript") ? "" : " hidden"
         }  bg-[#2D79C7]    text-[#b0cae4] `}
       >
-        Type Script
+        TypeScript
       </div>
       <div
         className={`tag ${
-          data.technology_feature.includes("Next js 13") ? "" : " hidden"
+          data.technology_feature.includes("Nextjs") ? "" : " hidden"
         }  bg-[#13224a]    text-[#fdfdfd]  `}
       >
-        Next js 13
+        Nextjs
       </div>
       <div
         className={`tag ${
-          data.technology_feature.includes("Node js") ? "" : " hidden"
+          data.technology_feature.includes("Nodejs") ? "" : " hidden"
         }  bg-[#79B562]    text-[#fdfdfd] `}
       >
-        Node js
+        Nodejs
       </div>
       <div
         className={`tag ${
@@ -108,18 +108,18 @@ function Technology_tag({ data }: Props) {
       </div>
       <div
         className={`tag ${
-          data.technology_feature.includes("Express js") ? "" : " hidden"
+          data.technology_feature.includes("Express") ? "" : " hidden"
         }  bg-[#333331]    text-gray-300 `}
       >
-        Express js
+        Express
       </div>
 
       <div
         className={`tag ${
-          data.technology_feature.includes("Mongo db") ? "" : " hidden"
+          data.technology_feature.includes("MongoDB") ? "" : " hidden"
         }  bg-[#10AA50]    text-[#fdfdfd]  `}
       >
-        Mongo db
+        Mongo DB
       </div>
       <div
         className={`tag ${
@@ -193,6 +193,20 @@ function Technology_tag({ data }: Props) {
         }  bg-[#422EDF]    text-[#fdfdfd]  `}
       >
         Expo
+      </div>
+      <div
+        className={`tag ${
+          data.technology_feature.includes("Material UI") ? "" : " hidden"
+        }  bg-[#422EDF]    text-[#fdfdfd]  `}
+      >
+        Material UI
+      </div>
+      <div
+        className={`tag ${
+          data.technology_feature.includes("NextAuth") ? "" : " hidden"
+        }  bg-[#123A50]    text-[#fdfdfd]  `}
+      >
+        NextAuth
       </div>
     </div>
   );
