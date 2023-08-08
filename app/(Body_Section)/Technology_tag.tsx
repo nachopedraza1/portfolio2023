@@ -9,24 +9,24 @@ function Technology_tag({ data }: Props) {
     <div className="w-full h-auto flex flex-row items-center flex-wrap mt-[10px] ">
       <div
         className={`tag ${
-          data.technology_feature.includes("html") ? "" : " hidden"
+          data.technology_feature.includes("HTML") ? "" : " hidden"
         }  bg-[#E54F24]    text-white  `}
       >
-        html
+        HTML
       </div>
       <div
         className={`tag ${
-          data.technology_feature.includes("css") ? "" : " hidden"
+          data.technology_feature.includes("CSS") ? "" : " hidden"
         }  bg-[#2062AF]    text-white `}
       >
-        css
+        CSS
       </div>
       <div
         className={`tag ${
-          data.technology_feature.includes("Javascript") ? "" : " hidden"
+          data.technology_feature.includes("JavaScript") ? "" : " hidden"
         }  bg-[#F0DB4F]    text-black `}
       >
-        Javascript
+        JavaScript
       </div>
       <div
         className={`tag ${
@@ -207,6 +207,13 @@ function Technology_tag({ data }: Props) {
         }  bg-[#123A50]    text-[#fdfdfd]  `}
       >
         NextAuth
+      </div>
+      <div
+        className={`tag ${
+          data.technology_feature.includes("SASS") ? "" : " hidden"
+        }  bg-[#ec4899]    text-[#fdfdfd]  `}
+      >
+        SASS
       </div>
     </div>
   );
