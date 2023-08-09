@@ -91,7 +91,8 @@ function More() {
           </div>
         </div>
         <a
-          href="https://www.youtube.com/channel/UCVBLPSX_7Tvm0iEFVMgd5-w"
+          href="https://www.youtube.com/channel/UCGWKbNCYZnZU8vUSCXrReQw"
+          target="_blank"
           className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[15px] "
         >
           <div className="mr-[10px]">

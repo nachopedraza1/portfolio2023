@@ -215,6 +215,13 @@ function Technology_tag({ data }: Props) {
       >
         SASS
       </div>
+      <div
+        className={`tag ${
+          data.technology_feature.includes("Bootstrap") ? "" : " hidden"
+        }  bg-[#7911f7]    text-[#fdfdfd]  `}
+      >
+        Bootstrap
+      </div>
     </div>
   );
 }
