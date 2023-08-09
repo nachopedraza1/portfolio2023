@@ -8,14 +8,14 @@ function Nav_Left() {
         src={"/glaxy.png"}
         width={40}
         height={40}
-        alt="Juan Pedraza"
+        alt="Nachirodev"
         className="  cursor-pointer  hover:animate-slowspin  "
       />
       <span
         id="cursive"
         className=" font-bold  text-gray-300  ml-[10px] hidden 310:flex "
       >
-        Juan Pedraza
+        NachiroDev
       </span>
     </Link>
   );

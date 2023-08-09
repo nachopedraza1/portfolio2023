@@ -8,9 +8,9 @@ type Props = {
   params: {
     ProjectId: string;
   };
- 
+
 };
-function page({ params: { ProjectId } }: Props  ) {
+function page({ params: { ProjectId } }: Props) {
   const Single_data: Project_data | any = Project?.filter(
     (data: Project_data) => data.video_key === ProjectId
   );
@@ -18,7 +18,7 @@ function page({ params: { ProjectId } }: Props  ) {
     <div className="w-full h-screen m-auto pt-[62px] flex flex-col items-center justify-start ">
       <div className=" w-full 1250:w-[1210px] min-h-[70px] flex flex-row items-center justify-start px-[10px] 600:px-[15px] 1250:px-0">
         <Link
-          href={"/"}
+          href={"/Project"}
           className="flex flex-row items-center static 1000:fixed  justify-start text-slate-200 hover:text-sky-500 cursor-pointer "
         >
           <ArrowLeftIcon className="h-4 w-4  mr-[5px] " />
