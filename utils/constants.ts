@@ -970,7 +970,7 @@ export const Project: Project_data[] = [
       "https://github.com/HyatMyat4/GrapeMedia/archive/refs/heads/main.zip",
     backend_dowload_link:
       "https://github.com/HyatMyat4/SocialMediaBackend-/archive/refs/heads/main.zip",
-    project_image: "/fantasias.png",
+    project_image: "/fantasias.PNG",
     project_blog:
       "Project done for poly-retailer, CRUD complete with administration panel, own authentication and authentication providers such as google and facebook, integrated payment platform: Mercado Pago.",
     Type: "FullStack",
