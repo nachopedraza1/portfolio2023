@@ -410,7 +410,7 @@ export const Project: Project_data[] = [
       "-project under development, more dependencies can be added..."
     ],
     conclusion_blog: "",
-    youtube_link: "https://www.youtube.com/@elpirata96",
+    youtube_link: "https://www.youtube.com/channel/UCGWKbNCYZnZU8vUSCXrReQw",
     githhub_link: "https://github.com/nachopedraza1/hyp-app",
     frontend_dowload_link:
       "",
@@ -533,10 +533,10 @@ export const Project: Project_data[] = [
       "use-count-up",
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/SyUh9is7G8w",
+    youtube_link: "https://www.youtube.com/watch?v=SyUh9is7G8w&t=11s&ab_channel=Nachodev",
     githhub_link: "https://github.com/nachopedraza1/killserver-app/tree/main",
     frontend_dowload_link:
-      "https://github.com/nachopedraza1/killserver-app/archive/refs/heads/main.zip",
+      "",
     backend_dowload_link: "",
     project_image: "/killserver.PNG",
     project_blog:
@@ -586,8 +586,8 @@ export const Project: Project_data[] = [
       "yup",
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/v3LJMcWbcDQ",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://www.youtube.com/watch?v=MDEWZ-jDqeA&t=7s&ab_channel=Nachodev",
+    githhub_link: "https://github.com/nachopedraza1/damage-devs",
     frontend_dowload_link:
       "",
     backend_dowload_link:
@@ -644,8 +644,8 @@ export const Project: Project_data[] = [
       "sweetalert2",
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/yF1oJ7wzvWY",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://www.youtube.com/watch?v=ac4d8zJTCdw&t=19s&ab_channel=Nachodev",
+    githhub_link: "https://github.com/nachopedraza1/Pirata-App",
     frontend_dowload_link:
       "",
     backend_dowload_link:
@@ -750,8 +750,8 @@ export const Project: Project_data[] = [
       "typewriter-effect",
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/R90bxY4UwPg",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://www.youtube.com/watch?v=_4IA19v3TGI&ab_channel=Nachodev",
+    githhub_link: "https://github.com/nachopedraza1/muonline-app",
     frontend_dowload_link:
       "",
     backend_dowload_link: "",
@@ -807,8 +807,8 @@ export const Project: Project_data[] = [
       "typescript",
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/R90bxY4UwPg",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://www.youtube.com/watch?v=LvoYQl3oVZ0&ab_channel=Nachodev",
+    githhub_link: "https://github.com/nachopedraza1/teslo-app",
     frontend_dowload_link:
       "",
     backend_dowload_link: "",
@@ -863,8 +863,8 @@ export const Project: Project_data[] = [
       "uuid",
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/yF1oJ7wzvWY",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://www.youtube.com/channel/UCGWKbNCYZnZU8vUSCXrReQw",
+    githhub_link: "https://github.com/nachopedraza1/bebo-app",
     frontend_dowload_link:
       "",
     backend_dowload_link:
@@ -877,7 +877,7 @@ export const Project: Project_data[] = [
   },
   {
     title: "DenBots",
-    video_key: "yF11oJ7w55z5vWY",
+    video_key: "S4EMNeNyqr8",
     say_xi: "Freelance project for foreign client 🌏",
     say_xi_blog:
       "Project oriented to computer security, specifically pentesting with DDOS attacks to improve server mitigation.",
@@ -897,8 +897,8 @@ export const Project: Project_data[] = [
       "no dependencies",
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/yF1oJ7wzvWY",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://youtu.be/S4EMNeNyqr8",
+    githhub_link: "https://github.com/nachopedraza1/denbots",
     frontend_dowload_link:
       "",
     backend_dowload_link:
@@ -945,12 +945,12 @@ export const Project: Project_data[] = [
       "sass",
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/cLKsNVSyPMM",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://www.youtube.com/channel/UCGWKbNCYZnZU8vUSCXrReQw",
+    githhub_link: "https://github.com/nachopedraza1/Fantasias-App",
     frontend_dowload_link:
-      "https://github.com/HyatMyat4/GrapeMedia/archive/refs/heads/main.zip",
+      "",
     backend_dowload_link:
-      "https://github.com/HyatMyat4/SocialMediaBackend-/archive/refs/heads/main.zip",
+      "",
     project_image: "/fantasias.PNG",
     project_blog:
       "Project done for poly-retailer, CRUD complete with administration panel, own authentication and authentication providers such as google and facebook, integrated payment platform: Mercado Pago.",
@@ -990,8 +990,8 @@ export const Project: Project_data[] = [
     ],
     conclusion_blog:
       "As I said at the beginning, this is a great project for begginers and even for those who are not new to React . I bealive this is a grat project to have in a resume or portfolio. I am very happy with the app and I hope you will enjoy it as well.",
-    youtube_link: "https://youtu.be/6wzf2ho-kzI",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://www.youtube.com/watch?v=bmhjaeHPCoo&t=4s&ab_channel=Nachodev",
+    githhub_link: "https://github.com/nachopedraza1/React-Ecommerce-Aorus",
     frontend_dowload_link: "",
     backend_dowload_link: "",
     project_image: "/aorus.PNG",
@@ -1022,12 +1022,12 @@ export const Project: Project_data[] = [
 
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/cLKsNVSyPMM",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://www.youtube.com/watch?v=HCP0rkAKS64&ab_channel=Nachodev",
+    githhub_link: "https://github.com/nachopedraza1",
     frontend_dowload_link:
-      "https://github.com/HyatMyat4/GrapeMedia/archive/refs/heads/main.zip",
+      "",
     backend_dowload_link:
-      "https://github.com/HyatMyat4/SocialMediaBackend-/archive/refs/heads/main.zip",
+      "",
     project_image: "/venexclone.PNG",
     project_blog:
       "Personal e-commerce internship project focused on hardware sales, simulated database with JSON object.",
@@ -1045,8 +1045,8 @@ export const Project: Project_data[] = [
     dependencies_blog: "",
     package: [],
     conclusion_blog: "",
-    youtube_link: "",
-    githhub_link: "",
+    youtube_link: "https://www.youtube.com/channel/UCGWKbNCYZnZU8vUSCXrReQw",
+    githhub_link: "https://github.com/nachopedraza1/Fantasias-Server",
     frontend_dowload_link: "",
     backend_dowload_link: "",
     project_image: "",

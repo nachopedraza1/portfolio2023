@@ -4,7 +4,7 @@ import actionSliceReducer from "./Redux-action";
 export const store = configureStore({
   reducer: {
     action: actionSliceReducer,
-  },
+  }
 });
 
 // Infer the `RootState` and `AppDispatch` types from the store itself

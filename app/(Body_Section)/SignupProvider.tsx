@@ -19,16 +19,6 @@ function SignupProvider() {
       </div>
       <div className="w-full h-full flex flex-col items-center justify-center px-[10px] ">
         <AuthButtons
-          AuthImage={"/fb.webp"}
-          AuthName={"Sign up with Facebook"}
-          providers_Name={"facebook"}
-        />
-        <AuthButtons
-          AuthImage={"/5296765_camera_instagram_instagram logo_icon.png"}
-          AuthName={"Sign up with Instagram"}
-          providers_Name={"instagram"}
-        />
-        <AuthButtons
           AuthImage={"/google.png"}
           AuthName={"Sign up with Google"}
           providers_Name={"google"}

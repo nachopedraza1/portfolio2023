@@ -25,7 +25,7 @@ const initialState: actionState = {
   },
   opctionchoose: "All",
   SearchQuery: "",
-  StarMode: "",
+  StarMode: "active",
   StarColur: "",
   MobileMenu: false,
 };
