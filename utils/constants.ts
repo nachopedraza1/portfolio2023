@@ -435,7 +435,7 @@ export const Project: Project_data[] = [
       "",
     backend_dowload_link:
       "",
-    project_image: "/hpyecommerce.png",
+    project_image: "/hpyecommerce.PNG",
     project_blog:
       "eCommerce project dedicated to the sale of sneakers and accessories. Authentication performed with NextAuth including providers such as Google, Facebook and Apple. Payment platform used: Mercado Pago.",
     Type: "FullStack",
@@ -495,7 +495,7 @@ export const Project: Project_data[] = [
       "",
     backend_dowload_link:
       "",
-    project_image: "/portfolio.png",
+    project_image: "/portfolio.PNG",
     project_blog:
       "This is my portfolio, it contains a beautiful interface and animations with Framer motion, basic NextAuth authentication with some providers.",
     Type: "FullStack",
@@ -557,7 +557,7 @@ export const Project: Project_data[] = [
     frontend_dowload_link:
       "https://github.com/nachopedraza1/killserver-app/archive/refs/heads/main.zip",
     backend_dowload_link: "",
-    project_image: "/killserver.png",
+    project_image: "/killserver.PNG",
     project_blog:
       "Project dedicated to information security, with a robust backend with strong security measures. Authentication performed with NextAuth including providers such as Discord, Github and Facebook. Payment platform used: Sellix ",
     Type: "FullStack",
@@ -611,7 +611,7 @@ export const Project: Project_data[] = [
       "",
     backend_dowload_link:
       "",
-    project_image: "/damagedevs.png",
+    project_image: "/damagedevs.PNG",
     project_blog:
       "Personal entrepreneurship as a Freelancer web developer, using the latest technologies in the market.",
     Type: "FrontEnd",
@@ -669,7 +669,7 @@ export const Project: Project_data[] = [
       "",
     backend_dowload_link:
       "",
-    project_image: "/belgranoesports.png",
+    project_image: "/belgranoesports.PNG",
     project_blog:
       "Project made for a big soccer association, in this case made for the eSports area, the site contains an administration panel where you can manage the site, for example: Upload new matches, upload results, view contenders, modify teams, upload rivals, among many other things.",
     Type: "FullStack",
@@ -774,7 +774,7 @@ export const Project: Project_data[] = [
     frontend_dowload_link:
       "",
     backend_dowload_link: "",
-    project_image: "/protocol.png",
+    project_image: "/protocol.PNG",
     project_blog:
       "Project dedicated to the world of MMO videogames, specifically MU Online, an informative site about the different guides of the videogame, it contains more than 40 pages written and consumed from a JSON object.",
     Type: "FrontEnd",
@@ -831,7 +831,7 @@ export const Project: Project_data[] = [
     frontend_dowload_link:
       "",
     backend_dowload_link: "",
-    project_image: "/tesloshop.png",
+    project_image: "/tesloshop.PNG",
     project_blog:
       "Project based on the official Tesla store, with administration panel to upload, edit and view the status of orders. Complete CRUD.",
     Type: "FullStack",
@@ -888,7 +888,7 @@ export const Project: Project_data[] = [
       "",
     backend_dowload_link:
       "",
-    project_image: "/bebodesign.png",
+    project_image: "/bebodesign.PNG",
     project_blog:
       "Project for a company of designers oriented to the sale of designs in PSD files, CRUD complete with administration panel to upload, delete and edit designs, integration of Cloudinary as an image storage platform.",
     Type: "FullStack",
@@ -922,7 +922,7 @@ export const Project: Project_data[] = [
       "",
     backend_dowload_link:
       "",
-    project_image: "/denbots.png",
+    project_image: "/denbots.PNG",
     project_blog:
       "Project oriented to computer security, specifically pentesting with DDOS attacks to improve server mitigation.",
     Type: "FrontEnd",
@@ -1013,7 +1013,7 @@ export const Project: Project_data[] = [
     githhub_link: "https://github.com/HyatMyat4",
     frontend_dowload_link: "",
     backend_dowload_link: "",
-    project_image: "/aorus.png",
+    project_image: "/aorus.PNG",
     project_blog:
       "Personal e-commerce internship project focused on hardware sales, database with Firebase products.",
     Type: "FullStack",
@@ -1047,7 +1047,7 @@ export const Project: Project_data[] = [
       "https://github.com/HyatMyat4/GrapeMedia/archive/refs/heads/main.zip",
     backend_dowload_link:
       "https://github.com/HyatMyat4/SocialMediaBackend-/archive/refs/heads/main.zip",
-    project_image: "/venexclone.png",
+    project_image: "/venexclone.PNG",
     project_blog:
       "Personal e-commerce internship project focused on hardware sales, simulated database with JSON object.",
     Type: "FrontEnd",
