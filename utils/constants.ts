@@ -14,8 +14,26 @@ export const Skill_data: Skill_data[] = [
   {
     skill_name: "Java Script",
     Image: "/js.png",
-    width: 65,
-    hight: 65,
+    width: 45,
+    hight: 45,
+  },
+  {
+    skill_name: "Type Script",
+    Image: "/ts.png",
+    width: 45,
+    hight: 45,
+  },
+  {
+    skill_name: "React",
+    Image: "/react.png",
+    width: 50,
+    hight: 50,
+  },
+  {
+    skill_name: "Next js 13",
+    Image: "/next.png",
+    width: 50,
+    hight: 50,
   },
   {
     skill_name: "Tailwind Css",
@@ -24,119 +42,71 @@ export const Skill_data: Skill_data[] = [
     hight: 80,
   },
   {
-    skill_name: "React",
-    Image: "/react.png",
+    skill_name: "Material UI",
+    Image: "/mui.png",
     width: 80,
     hight: 80,
   },
   {
-    skill_name: "Redux",
-    Image: "/redux.png",
+    skill_name: "Sass",
+    Image: "/sass.svg",
     width: 80,
     hight: 80,
   },
   {
-    skill_name: "React Query",
-    Image: "/reactquery.png",
-    width: 80,
-    hight: 80,
-  },
-  {
-    skill_name: "Type Script",
-    Image: "/ts.png",
-    width: 80,
-    hight: 80,
-  },
-  {
-    skill_name: "Next js 13",
-    Image: "/next.png",
-    width: 80,
-    hight: 80,
-  },
-  {
-    skill_name: "Next Auth",
-    Image: "https://next-auth.js.org/img/logo/logo-sm.png",
-    width: 80,
-    hight: 80,
-  },
-  {
-    skill_name: "Json Web Tocken",
-    Image:
-      "https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png",
-    width: 80,
-    hight: 80,
-  },
-  {
-    skill_name: "Framer Motion",
-    Image: "/framer.png",
-    width: 80,
-    hight: 80,
-  },
-  {
-    skill_name: "Stripe Payment",
-    Image: "/stripe.webp",
+    skill_name: "Bootstrap",
+    Image: "/bootstrap.png",
     width: 80,
     hight: 80,
   },
   {
     skill_name: "Node js",
     Image: "/node-js.png",
-    width: 80,
-    hight: 80,
+    width: 50,
+    hight: 50,
   },
   {
     skill_name: "Express js",
     Image: "/express.png",
-    width: 80,
-    hight: 80,
+    width: 50,
+    hight: 50,
   },
   {
     skill_name: "Mongo db",
     Image: "/mongodb.png",
-    width: 40,
-    hight: 40,
+    width: 30,
+    hight: 30,
   },
   {
     skill_name: "Fire base",
     Image: "/Firebase.png",
-    width: 55,
-    hight: 55,
+    width: 40,
+    hight: 40,
   },
   {
-    skill_name: "Postger SQL",
-    Image: "/postger.png",
-    width: 70,
-    hight: 70,
+    skill_name: "Next Auth",
+    Image: "https://next-auth.js.org/img/logo/logo-sm.png",
+    width: 45,
+    hight: 45,
   },
   {
-    skill_name: "My SQL",
-    Image: "/mysql.png",
-    width: 70,
-    hight: 70,
-  },
-  {
-    skill_name: "Prisma",
-    Image: "/prisma.webp",
-    width: 70,
-    hight: 70,
+    skill_name: "Json Web Token",
+    Image:
+      "https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png",
+    width: 45,
+    hight: 45,
   },
   {
     skill_name: "Graphql",
     Image: "/graphql.png",
-    width: 80,
-    hight: 80,
+    width: 50,
+    hight: 50,
   },
   {
-    skill_name: "React Native",
-    Image: "/ReactNative .png",
-    width: 70,
-    hight: 70,
-  },
-  {
-    skill_name: "Tauri",
-    Image: "/tauri.svg",
-    width: 70,
-    hight: 70,
+    skill_name: "Redux",
+    Image: "/redux.png",
+    width: 50,
+    hight: 50,
   },
   {
     skill_name: "Docker",
@@ -145,23 +115,22 @@ export const Skill_data: Skill_data[] = [
     hight: 70,
   },
   {
-    skill_name: "Nigx",
-    Image:
-      "https://i0.wp.com/thinkground.studio/wp-content/uploads/2019/04/190415_Nginx-Logo.png?fit=423%2C401&ssl=1",
-    width: 70,
-    hight: 70,
-  },
-  {
     skill_name: "Figma",
     Image: "/figma.png",
+    width: 35,
+    hight: 35,
+  },
+  {
+    skill_name: "Framer Motion",
+    Image: "/framer.png",
     width: 50,
     hight: 50,
   },
   {
-    skill_name: "Web Scoket",
-    Image: "https://avatars.githubusercontent.com/u/10566080?s=200&v=4",
-    width: 70,
-    hight: 70,
+    skill_name: "Git",
+    Image: "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+    width: 50,
+    hight: 50,
   },
   {
     skill_name: "Cloundary",
@@ -170,28 +139,40 @@ export const Skill_data: Skill_data[] = [
     hight: 70,
   },
   {
-    skill_name: "Go",
-    Image: "/go.png",
-    width: 60,
-    hight: 60,
-  },
-  {
-    skill_name: "Gin gonic",
-    Image: "https://raw.githubusercontent.com/gin-gonic/logo/master/color.png",
-    width: 50,
-    hight: 50,
-  },
-  {
-    skill_name: "Git",
-    Image: "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
-    width: 70,
-    hight: 70,
-  },
-  {
     skill_name: "Npm",
     Image: "https://authy.com/wp-content/uploads/npm-logo.png",
-    width: 70,
-    hight: 70,
+    width: 45,
+    hight: 45,
+  },
+  {
+    skill_name: "stripe",
+    Image: "/stripe.webp",
+    width: 45,
+    hight: 45,
+  },
+  {
+    skill_name: "paypal",
+    Image: "/paypal.png",
+    width: 35,
+    hight: 35,
+  },
+  {
+    skill_name: "mercagopago",
+    Image: "/mercadopago.png",
+    width: 55,
+    hight: 55,
+  },
+  {
+    skill_name: "sellix",
+    Image: "/sellix.png",
+    width: 40,
+    hight: 40,
+  },
+  {
+    skill_name: "binance",
+    Image: "/binance.png",
+    width: 40,
+    hight: 40,
   },
 ];
 
@@ -387,7 +368,7 @@ export const Skills_line_4: Skill_data[] = [
 export const Project: Project_data[] = [
   {
     title: "Hilos y perlas ",
-    video_key: "v3LJMcWbcDQ",
+    video_key: "v3LJMcqwWbcDQ",
     say_xi: "Freelance project for client 👟",
     say_xi_blog:
       "eCommerce project dedicated to the sale of sneakers and accessories. Authentication performed with NextAuth including providers such as Google, Facebook and Apple. Payment platform used: Mercado Pago.",
@@ -429,8 +410,8 @@ export const Project: Project_data[] = [
       "-project under development, more dependencies can be added..."
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/v3LJMcWbcDQ",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://www.youtube.com/@elpirata96",
+    githhub_link: "https://github.com/nachopedraza1/hyp-app",
     frontend_dowload_link:
       "",
     backend_dowload_link:
@@ -489,8 +470,8 @@ export const Project: Project_data[] = [
       "typescript",
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/v3LJMcWbcDQ",
-    githhub_link: "https://github.com/HyatMyat4",
+    youtube_link: "https://youtu.be/72oQKw9MhSE",
+    githhub_link: "https://github.com/nachopedraza1/portfolio2023",
     frontend_dowload_link:
       "",
     backend_dowload_link:
@@ -978,7 +959,7 @@ export const Project: Project_data[] = [
   },
   {
     title: "Aorus with React (Clone)",
-    video_key: "6w1zf21222ho-kzI",
+    video_key: "bmhjaeHPCoo",
     say_xi: "Personal internship project",
     say_xi_blog:
       "Personal e-commerce internship project focused on hardware sales, database with Firebase products.",
@@ -1021,7 +1002,7 @@ export const Project: Project_data[] = [
   },
   {
     title: "Aorus Vanilla Shop (Clone)",
-    video_key: "cLKs1NVSyPMM",
+    video_key: "HCP0rkAKS64",
     say_xi: "Personal internship project🎉",
     say_xi_blog:
       "Personal e-commerce internship project focused on hardware sales, simulated database with JSON object.",

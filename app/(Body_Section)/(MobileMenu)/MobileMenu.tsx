@@ -36,18 +36,32 @@ function MobileMenu() {
           className="  cursor-pointer  hover:animate-slowspin  "
         />
       </div>
-      <div
-        onClick={() => setcourse(!course)}
+      <Link href="/"
+        onClick={() => dispatch(setMobileMenu(false))}
         className=" w-full min-h-[50px] rounded-[10px] border
-             hover:border-sky-500  border-[#7042f861] flex flex-row items-center font-semibold justify-center "
+          hover:border-sky-500  border-[#7042f861] flex flex-row items-center font-semibold justify-center "
       >
-        Course
-        <ChevronDownIcon className=" w-[20px] h-[20px]  text-gray-200 translate-y-[2px] group-hover:text-[#0000009e] group-hover:text-gray-50 ml-[10px]" />
-      </div>
+
+        Home
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          className="h-5 w-5 ml-[9px]"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M17 8l4 4m0 0l-4 4m4-4H3"
+          />
+        </svg>
+
+      </Link>
       <div
-        className={` ${
-          course ? "" : " hidden"
-        } w-full h-auto rounded-[10px] bg-[#0c0728] relative  p-[10px]    mt-[20px]
+        className={` ${course ? "" : " hidden"
+          } w-full h-auto rounded-[10px] bg-[#0c0728] relative  p-[10px]    mt-[20px]
         flex   flex-col   items-center justify-center `}
       >
         <div className=" absolute top-[-13px] ">
@@ -79,6 +93,7 @@ function MobileMenu() {
       </div>
       <Link
         href={"/Project"}
+        onClick={() => dispatch(setMobileMenu(false))}
         className=" w-full min-h-[50px] rounded-[10px] border
              hover:border-sky-500  border-[#7042f861] mt-[15px] flex flex-row  items-center font-semibold justify-center  "
       >
@@ -98,11 +113,12 @@ function MobileMenu() {
           />
         </svg>
       </Link>
-      <div
+      <Link href="/AboutMe"
+        onClick={() => dispatch(setMobileMenu(false))}
         className=" w-full min-h-[50px] rounded-[10px] border pl-[25px]
              hover:border-sky-500  border-[#7042f861] mt-[15px] flex flex-row  text-gray-200 items-center font-semibold justify-center "
       >
-        Resources
+        About Me
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="h-5 w-5 ml-[9px]"
@@ -117,7 +133,7 @@ function MobileMenu() {
             d="M17 8l4 4m0 0l-4 4m4-4H3"
           />
         </svg>
-      </div>
+      </Link>
       <div
         onClick={() => setMore(!More)}
         className=" w-full min-h-[50px] rounded-[10px] border pr-[5px]
@@ -127,7 +143,7 @@ function MobileMenu() {
         <ChevronDownIcon className=" w-[20px] h-[20px]  text-gray-200 translate-y-[2px] group-hover:text-[#0000009e] group-hover:text-gray-50 ml-[10px]" />
       </div>
       {More ? <MoreMobile /> : <div></div>}
-    </div>
+    </div >
   );
 }
 

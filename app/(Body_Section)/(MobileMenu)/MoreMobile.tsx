@@ -62,20 +62,8 @@ function MoreMobile() {
           </p>
         </div>
       </div>
-      <Link
-        href={"AboutMe"}
-        className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[5px] "
-      >
-        <div className=" flex flex-col">
-          <span className=" font-bold text-gray-200 text-[16px] ">About</span>
-          <p className=" mt-[5px] text-[14px] text-gray-300 ">
-            Learn more about me, my work, and how I can help you with your
-            project.
-          </p>
-        </div>
-      </Link>
       <a
-        href="https://www.youtube.com/channel/UCVBLPSX_7Tvm0iEFVMgd5-w"
+        href="https://www.youtube.com/channel/UCGWKbNCYZnZU8vUSCXrReQw"
         className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[5px] "
       >
         <div className=" flex flex-col">
