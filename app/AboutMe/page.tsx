@@ -11,7 +11,7 @@ function page() {
           className="flex flex-row items-center   justify-start text-slate-200 hover:text-sky-500 cursor-pointer "
         >
           <ArrowLeftIcon className="h-4 w-4  mr-[5px] " />
-          <span className=" text-[14px]">Back</span>
+          <span className=" text-[14px]">Back </span>
         </Link>
       </div>
       <div className=" w-full 1250:w-[900px] h-auto m-auto mt-[25px] pb-[100px] ">
