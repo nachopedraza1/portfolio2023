@@ -130,7 +130,7 @@ function Footer() {
               </svg>
             </div>
             <div className=" flex flex-row items-center my-[15px] hover:underline cursor-pointer ">
-              <Link href="/aboutme">
+              <Link href="/about">
                 <span className=" text-[15px] mr-[6px]">Learing About Me</span>
               </Link>
             </div>

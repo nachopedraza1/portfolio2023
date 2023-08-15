@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { ArrowLeftIcon } from "@heroicons/react/24/outline";
 import Footer from "../(Footer)/Footer";
-function page() {
+function About() {
   return (
     <div className=" pt-[65px] w-auto h-auto text-white m-auto flex flex-col items-center p-[10px] ">
       <div className=" w-full 1250:w-[1210px] absolute min-h-[70px] flex flex-row items-center justify-start px-[10px] 600:px-[15px] 1250:px-0">
@@ -118,4 +118,4 @@ function page() {
   );
 }
 
-export default page;
+export default About;

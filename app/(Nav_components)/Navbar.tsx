@@ -34,7 +34,7 @@ function Navbar() {
               <Link href={"/projects"} className="Nav_text">
                 Projects
               </Link>
-              <Link href={"/aboutme"} className="Nav_text">
+              <Link href={"/about"} className="Nav_text">
                 About me
               </Link>
               <More />
