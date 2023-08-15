@@ -31,10 +31,10 @@ function Navbar() {
               <Link href={"/"} className="Nav_text">
                 Home
               </Link>
-              <Link href={"/Project"} className="Nav_text">
+              <Link href={"/projects"} className="Nav_text">
                 Projects
               </Link>
-              <Link href={"/AboutMe"} className="Nav_text">
+              <Link href={"/aboutme"} className="Nav_text">
                 About me
               </Link>
               <More />

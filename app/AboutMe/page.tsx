@@ -28,7 +28,7 @@ function page() {
         </div>
         <div>
           <div className="text-[20px]  my-[15px]  animate-slideright ">
-            <span className="monospace">All i learning selfstudy from</span>
+            <span className="monospace">I study and continue to study at </span>
             <span className="text-rose-600"> Udemy</span> ,
             <span className="text-emerald-500"> CoderHouse</span> ,
             <span className=" text-[#F48024]"> Stackoverflow</span>,
