@@ -1,7 +1,4 @@
 import React from "react";
-import Image from "next/image";
-import Link from "next/link";
-import Technology_tag from "./Technology_tag";
 import { Project } from "../../utils/constants";
 import Projectcard_Web from "./(ProjectCard)/Projectcard_Web";
 import Projectcard_Mobile from "./(ProjectCard)/Projectcard_Mobile";
