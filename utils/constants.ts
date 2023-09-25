@@ -367,6 +367,65 @@ export const Skills_line_4: Skill_data[] = [
 
 export const Project: Project_data[] = [
   {
+    title: "Recibimientos CAB",
+    video_key: "Ki11X36Si_g",
+    say_xi: "Freelance project 🌏",
+    say_xi_blog:
+      "Project made for a large community of fans of belgrano de cordoba, the main objective of the application is to raise funds for each game played by the team, here will reflect the contributions of all users and also you can see the costs of each game.",
+    technology_feature: [
+      "Material UI",
+      "React",
+      "Nextjs",
+      "TypeScript",
+      "NextAuth",
+      "MongoDB",
+      "Framer Motion"
+    ],
+
+    about_this_app:
+      "Connection with mongoose - mongodb, automatic payment methods like paypal and mercadopago, authentication with next auth, data fetch with SWR, forms with react-use-form, encrypted passwords with bcryptjs, alerts with notistack, API routes and pages validated by middlewares.",
+    design_blog:
+      "Layout design in figma and code 100% developed by me. 💖",
+    dependencies_blog:
+      "You can use Yarn or NPM to install the dependencies. In this case I am use NPM",
+    package: [
+      "@emotion/react",
+      "@emotion/styled",
+      "@fortawesome/free-brands-svg-icons",
+      "@fortawesome/react-fontawesome",
+      "@mercadopago/sdk-react",
+      "@mui/material",
+      "@paypal/react-paypal-js",
+      "axios",
+      "bcryptjs",
+      "framer-motion",
+      "mercadopago",
+      "mongoose",
+      "next",
+      "next-auth",
+      "notistack",
+      "react",
+      "react-dom",
+      "react-hook-form",
+      "react-intersection-observer",
+      "swr",
+      "typescript",
+      "use-count-up",
+    ],
+    conclusion_blog: "",
+    youtube_link: "https://www.youtube.com/channel/UCGWKbNCYZnZU8vUSCXrReQw",
+    githhub_link: "https://github.com/nachopedraza1/recibimientos-app/tree/main",
+    frontend_dowload_link:
+      "",
+    backend_dowload_link:
+      "",
+    project_image: "/recibimientoscab.jpg",
+    project_blog:
+      "Project made for a large community of fans of belgrano de cordoba, the main objective of the application is to raise funds for each game played by the team, here will reflect the contributions of all users and also you can see the costs of each game.",
+    Type: "FullStack",
+    indevelopment: false,
+  },
+  {
     title: "Hilos y perlas ",
     video_key: "v3LJMcqwWbcDQ",
     say_xi: "Freelance project for client 👟",
