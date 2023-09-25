@@ -413,7 +413,7 @@ export const Project: Project_data[] = [
       "use-count-up",
     ],
     conclusion_blog: "",
-    youtube_link: "https://www.youtube.com/channel/UCGWKbNCYZnZU8vUSCXrReQw",
+    youtube_link: "https://youtu.be/Ki11X36Si_g",
     githhub_link: "https://github.com/nachopedraza1/recibimientos-app/tree/main",
     frontend_dowload_link:
       "",
