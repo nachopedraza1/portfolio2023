@@ -368,13 +368,14 @@ export const Skills_line_4: Skill_data[] = [
 export const Project: Project_data[] = [
   {
     title: "Recibimientos CAB",
-    video_key: "Ki11X36Si_g",
+    video_key: "pC31XySxvgM",
     say_xi: "Freelance project 🌏",
     say_xi_blog:
       "Project made for a large community of fans of belgrano de cordoba, the main objective of the application is to raise funds for each game played by the team, here will reflect the contributions of all users and also you can see the costs of each game.",
     technology_feature: [
       "Material UI",
       "React",
+      "Nodejs",
       "Nextjs",
       "TypeScript",
       "NextAuth",
@@ -413,7 +414,7 @@ export const Project: Project_data[] = [
       "use-count-up",
     ],
     conclusion_blog: "",
-    youtube_link: "https://youtu.be/Ki11X36Si_g",
+    youtube_link: "https://youtu.be/pC31XySxvgM",
     githhub_link: "https://github.com/nachopedraza1/recibimientos-app/tree/main",
     frontend_dowload_link:
       "",
@@ -550,6 +551,7 @@ export const Project: Project_data[] = [
     technology_feature: [
       "Material UI",
       "React",
+      "Nodejs",
       "Nextjs",
       "TypeScript",
       "NextAuth",
@@ -829,6 +831,7 @@ export const Project: Project_data[] = [
     technology_feature: [
       "Material UI",
       "React",
+      "Nodejs",
       "Nextjs",
       "TypeScript",
       "MongoDB",
