@@ -435,6 +435,7 @@ export const Project: Project_data[] = [
     technology_feature: [
       "Material UI",
       "React",
+      "Nodejs",
       "Nextjs",
       "TypeScript",
       "NextAuth",
