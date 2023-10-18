@@ -84,15 +84,15 @@ export const Skill_data: Skill_data[] = [
     hight: 40,
   },
   {
-    skill_name: "Next Auth",
-    Image: "https://next-auth.js.org/img/logo/logo-sm.png",
-    width: 45,
-    hight: 45,
+    skill_name: "MySQL",
+    Image: "https://labs.mysql.com/common/logos/mysql-logo.svg?v2",
+    width: 75,
+    hight: 75,
   },
   {
-    skill_name: "Json Web Token",
+    skill_name: "PostgreSQL",
     Image:
-      "https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png",
+      "https://www.postgresql.org/media/img/about/press/elephant.png",
     width: 45,
     hight: 45,
   },
@@ -133,10 +133,10 @@ export const Skill_data: Skill_data[] = [
     hight: 50,
   },
   {
-    skill_name: "Cloundary",
-    Image: "https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg",
-    width: 70,
-    hight: 70,
+    skill_name: "Sequelize",
+    Image: "https://sequelize.org/img/logo.svg",
+    width: 45,
+    hight: 45,
   },
   {
     skill_name: "Npm",
@@ -265,15 +265,15 @@ export const Skills_line_2: Skill_data[] = [
     hight: 40,
   },
   {
-    skill_name: "Next Auth",
-    Image: "https://next-auth.js.org/img/logo/logo-sm.png",
-    width: 45,
-    hight: 45,
+    skill_name: "MySQL",
+    Image: "https://labs.mysql.com/common/logos/mysql-logo.svg?v2",
+    width: 75,
+    hight: 75,
   },
   {
-    skill_name: "Json Web Token",
+    skill_name: "PostgreSQL",
     Image:
-      "https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png",
+      "https://www.postgresql.org/media/img/about/press/elephant.png",
     width: 45,
     hight: 45,
   },
@@ -317,10 +317,10 @@ export const Skills_line_3: Skill_data[] = [
     hight: 50,
   },
   {
-    skill_name: "Cloundary",
-    Image: "https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg",
-    width: 70,
-    hight: 70,
+    skill_name: "Sequelize",
+    Image: "https://sequelize.org/img/logo.svg",
+    width: 45,
+    hight: 45,
   },
   {
     skill_name: "Npm",
